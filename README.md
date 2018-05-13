@@ -5,4 +5,4 @@
     https://docs.python.org/3/tutorial/index.html
 
 ## Topics
-    variables, functions, comments, operators
+    Variables scopes, Functions, Comments, Operators, Data types, List
